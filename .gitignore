@@ -1,0 +1,5 @@
+traffic_gui_old.py
+terminal
+traffic_report.txt
+__pycache__/
+venv/
